@@ -1,7 +1,5 @@
 const blogPostForm = document.querySelector('.blog-post-form');
 
-console.log("here i am!");
-
 const blogPostHandler = async (event) => {
   event.preventDefault();
 

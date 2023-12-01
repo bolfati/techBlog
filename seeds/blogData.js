@@ -9,15 +9,15 @@ const blogdata = [
    
   },
   {
-    title: 'Sand + Sea = Summer',
+    title: 'BIG SECOND POST',
     user: 'S_Photo',
     post_date: 'June 10, 2019',
     content: 'This is the second post!',
    
   },
   {
-    title: 'Third box',
-    user: 'hello',
+    title: 'TBijan post',
+    user: 'bijan',
     post_date: 'June 10, 2019',
     content: 'This is the Third post!',
    
